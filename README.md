@@ -1,6 +1,6 @@
 ## Hi, I'm Jose! 👋
 
-Software Engineer with 7+ years of experience building scalable web applications and APIs. Skilled in Laravel, Node.js, React, Vue, Docker, AWS, and CI/CD. Experienced across healthcare, fintech, travel, and multimedia industries. Focused on driving team success, improving efficiency, and shipping high-quality software to production.
+Software Engineer with 1+ years of experience building scalable web applications and APIs. Skilled in  Node.js, React,  Docker, and CI/CD. Experienced across healthcare, fintech, travel, and multimedia industries. Focused on driving team success, improving efficiency, and shipping high-quality software to production.
 
 ### 🛠 &nbsp;Languages & Frameworks
 
@@ -39,7 +39,7 @@ Software Engineer with 7+ years of experience building scalable web applications
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![Website](https://img.shields.io/badge/-website-3423A6?style=for-the-badge&&logo=Google-Chrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-sanchez-8a11b0314/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-sanchez-8a11b0314/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jgsm_)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseg191.js@gmail.com)
 
