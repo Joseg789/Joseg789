@@ -11,6 +11,7 @@ Software Engineer with 7+ years of experience building scalable web applications
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🪣 &nbsp;Databases & Caching
 
@@ -32,18 +33,16 @@ Software Engineer with 7+ years of experience building scalable web applications
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandofvega&theme=algolia&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joseg789&theme=algolia&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=sandofvega&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![Website](https://img.shields.io/badge/-website-3423A6?style=for-the-badge&&logo=Google-Chrome&logoColor=white)](https://yasinarafat.dev/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandofvega/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9111020/yasin-arafat?tab=profile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sandofvega)
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakanoiofficial@gmail.com)
+[![Website](https://img.shields.io/badge/-website-3423A6?style=for-the-badge&&logo=Google-Chrome&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-sanchez-8a11b0314/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jgsm_)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseg191.js@gmail.com)
 
 ------
-Credit: [sandofvega](https://github.com/sandofvega)
 
 Last Edited on: 25/04/2026
