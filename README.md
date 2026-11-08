@@ -1,6 +1,6 @@
 ## Hi, I'm Jose! 👋
 
-Software Engineer with 1+ years of experience building scalable web applications and APIs. Skilled in  Node.js, React,  Docker, and CI/CD. Experienced across healthcare, fintech, travel, and multimedia industries. Focused on driving team success, improving efficiency, and shipping high-quality software to production.
+Software Engineer with 2+ years of experience building scalable web applications and APIs. Skilled in  Node.js, React,  Docker, and CI/CD. Experienced across healthcare, fintech, travel, and multimedia industries. Focused on driving team success, improving efficiency, and shipping high-quality software to production.
 
 ### 🛠 &nbsp;Languages & Frameworks
 
